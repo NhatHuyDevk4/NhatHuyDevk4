@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I'm passionate about the web and currently studying to become a skilled web developer.
 I'm currently studing
 
 
