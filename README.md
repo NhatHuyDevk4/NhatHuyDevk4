@@ -1,5 +1,4 @@
-# 💫 About Me: I'm passionate about the web and currently studying to become a skilled web developer.
-I'm currently studing
+# 💫 About Me: I'm passionate about technology and currently developing my skills as a Full-Stack and Mobile Developer, focusing on Frontend, Backend, and Cross-Platform Mobile apps.
 
 
 # 💻 Tech Stack:
